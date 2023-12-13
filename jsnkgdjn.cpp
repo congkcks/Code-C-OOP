@@ -1,0 +1,14 @@
+2
+Nguyen Van A
+26/04/2003
+99 Nguyen CHi THanh
+221230456
+400
+300
+Nguyen Thi B
+23/09/2004
+33 Nguyen Khac Minh
+221234994
+300
+100
+

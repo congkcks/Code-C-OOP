@@ -1,0 +1,18 @@
+dau buoi B 
+B
+2.400000
+dau buoi C
+A
+2.500000
+dau buoi D
+D
+2.600000
+dau buoi E
+C
+2.700000
+dau buoi H 
+A
+2.800000
+dau buoi a
+A
+2.300000
